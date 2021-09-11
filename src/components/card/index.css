@@ -1,0 +1,12 @@
+.github-profile {
+  display: flex;
+  padding: 10px;
+  margin: 1rem;
+}
+
+.info {
+  margin: 10px;
+  display: inline-block;
+  /* flex-direction: column;
+  justify-content: space-around; */
+}
